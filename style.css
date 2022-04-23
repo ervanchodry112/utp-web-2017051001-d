@@ -1,0 +1,11 @@
+@import 'asset/css/bootstrap.min.css';
+
+.mypict{
+    border-radius: 50%;
+    box-shadow: 0 15px 25px rgb(0, 0, 0, 0.4);
+    transition: .3s;
+}
+
+.mypict:hover{
+    box-shadow: 0 3px 25px rgb(13, 162, 231);
+}
